@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">66ac65bd-0a82-43a2-b6cb-a7c3e535fad5</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">bb6282a2-c723-46fc-9c76-f6e12fde4b12</dc:identifier>
+    <dc:title>The Voice and The Mirrors</dc:title>
+    <dc:creator opf:file-as="Mayorga, Polibio" opf:role="aut">Polibio Mayorga</dc:creator>
+    <dc:publisher>Libre Books [https://libre.usrlib.net]</dc:publisher>
+    <dc:language>eng</dc:language>
+    <meta content="{&quot;Polibio Mayorga&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+  </metadata>
+  <manifest>
+    <item href="01_title.xhtml" id="start" media-type="application/xhtml+xml"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="main.css" id="id1" media-type="text/css"/>
+    <item href="02_dedication.xhtml" id="id2" media-type="application/xhtml+xml"/>
+    <item href="logo.png" id="id3" media-type="image/png"/>
+    <item href="03_epigraph.xhtml" id="id4" media-type="application/xhtml+xml"/>
+    <item href="04_prologue.xhtml" id="id5" media-type="application/xhtml+xml"/>
+    <item href="05_kindness.xhtml" id="id6" media-type="application/xhtml+xml"/>
+    <item href="09_the_voice_and_the_mirrors.xhtml" id="id7" media-type="application/xhtml+xml"/>
+    <item href="GenBasR.ttf" id="id8" media-type="application/x-font-truetype"/>
+    <item href="06_hallucination.xhtml" id="id9" media-type="application/xhtml+xml"/>
+    <item href="07_holiness.xhtml" id="id10" media-type="application/xhtml+xml"/>
+    <item href="08_rainbow.xhtml" id="id" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="start"/>
+    <itemref idref="id2"/>
+    <itemref idref="id4"/>
+    <itemref idref="id5"/>
+    <itemref idref="id6"/>
+    <itemref idref="id9"/>
+    <itemref idref="id10"/>
+    <itemref idref="id"/>
+    <itemref idref="id7"/>
+  </spine>
+  <guide/>
+</package>

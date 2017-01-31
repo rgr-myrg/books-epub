@@ -1,0 +1,19 @@
+@charset utf-8;
+
+@font-face {
+  src: url("GenBasR.ttf");
+  font-family: "Gentium Basic";
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  }
+body {
+  font-family: 'Gentium Basic', cursive;
+  line-height: 1.25em;
+  text-align: left;
+  }
+#main {
+  display: inline-block;
+  margin: auto;
+  text-align: left;
+  }

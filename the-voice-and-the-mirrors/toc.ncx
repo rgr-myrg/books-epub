@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta content="bb6282a2-c723-46fc-9c76-f6e12fde4b12" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (2.78.0)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>The Voice and The Mirrors</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="num_1" playOrder="1">
+      <navLabel>
+        <text>Title</text>
+      </navLabel>
+      <content src="01_title.xhtml"/>
+    </navPoint>
+    <navPoint id="num_2" playOrder="2">
+      <navLabel>
+        <text>Dedication</text>
+      </navLabel>
+      <content src="02_dedication.xhtml"/>
+    </navPoint>
+    <navPoint id="num_3" playOrder="3">
+      <navLabel>
+        <text>Epigraph</text>
+      </navLabel>
+      <content src="03_epigraph.xhtml"/>
+    </navPoint>
+    <navPoint id="num_4" playOrder="4">
+      <navLabel>
+        <text>Prologue</text>
+      </navLabel>
+      <content src="04_prologue.xhtml"/>
+    </navPoint>
+    <navPoint id="num_5" playOrder="5">
+      <navLabel>
+        <text>Kindness</text>
+      </navLabel>
+      <content src="05_kindness.xhtml"/>
+    </navPoint>
+    <navPoint id="num_6" playOrder="6">
+      <navLabel>
+        <text>Hallucination</text>
+      </navLabel>
+      <content src="06_hallucination.xhtml"/>
+    </navPoint>
+    <navPoint id="num_7" playOrder="7">
+      <navLabel>
+        <text>Holiness</text>
+      </navLabel>
+      <content src="07_holiness.xhtml"/>
+    </navPoint>
+    <navPoint id="num_8" playOrder="8">
+      <navLabel>
+        <text>Rainbow</text>
+      </navLabel>
+      <content src="08_rainbow.xhtml"/>
+    </navPoint>
+    <navPoint id="num_9" playOrder="9">
+      <navLabel>
+        <text>The Voice and The Mirrors</text>
+      </navLabel>
+      <content src="09_the_voice_and_the_mirrors.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>
